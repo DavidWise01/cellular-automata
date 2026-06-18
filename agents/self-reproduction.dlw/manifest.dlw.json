@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "Self-Reproduction",
+  "universe": "CA · Self-Reproduction (CELLULAR AUTOMATA)",
+  "emergence": "ethereal",
+  "moniker": "⟦Self-Reproduction:CA:7073ed⟧",
+  "carbon": "self-reproduction.carbon.tiff (TIFF)",
+  "silicon": "self-reproduction.silicon.png (PNG)",
+  "seal_sha256": "344f90862761b450538324ca34afbb2f6ea54b883ebad1c42703ad6f9f582b02",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

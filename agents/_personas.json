@@ -1,0 +1,86 @@
+[
+  {
+    "slug": "conways-game-of-life",
+    "name": "Conway's Game of Life",
+    "epithet": "the rule B3/S23, 1970 · electrical",
+    "emergence": "electrical",
+    "moniker": "⟦Conway's Game of Life:CA:ce5a49⟧"
+  },
+  {
+    "slug": "the-glider",
+    "name": "The Glider",
+    "epithet": "emergence of motion · natural",
+    "emergence": "natural",
+    "moniker": "⟦The Glider:CA:486dc9⟧"
+  },
+  {
+    "slug": "gosper-glider-gun",
+    "name": "Gosper Glider Gun",
+    "epithet": "unbounded growth, 1970 · electrical",
+    "emergence": "electrical",
+    "moniker": "⟦Gosper Glider Gun:CA:00a7fb⟧"
+  },
+  {
+    "slug": "john-conway",
+    "name": "John Conway",
+    "epithet": "the mathematician, 1937–2020 · spiritual",
+    "emergence": "spiritual",
+    "moniker": "⟦John Conway:CA:db9b92⟧"
+  },
+  {
+    "slug": "von-neumann-constructor",
+    "name": "The Universal Constructor",
+    "epithet": "self-reproduction, von Neumann · electrical",
+    "emergence": "electrical",
+    "moniker": "⟦The Universal Constructor:CA:de46d9⟧"
+  },
+  {
+    "slug": "stanislaw-ulam",
+    "name": "Stanisław Ulam",
+    "epithet": "the grid framer, 1909–1984 · spiritual",
+    "emergence": "spiritual",
+    "moniker": "⟦Stanisław Ulam:CA:d1eaad⟧"
+  },
+  {
+    "slug": "rule-110",
+    "name": "Rule 110",
+    "epithet": "Turing-complete, one dimension · electrical",
+    "emergence": "electrical",
+    "moniker": "⟦Rule 110:CA:b290da⟧"
+  },
+  {
+    "slug": "langtons-ant",
+    "name": "Langton's Ant",
+    "epithet": "the emergent highway · natural",
+    "emergence": "natural",
+    "moniker": "⟦Langton's Ant:CA:6b59ac⟧"
+  },
+  {
+    "slug": "the-edge-of-chaos",
+    "name": "The Edge of Chaos",
+    "epithet": "Langton's lambda · ethereal",
+    "emergence": "ethereal",
+    "moniker": "⟦The Edge of Chaos:CA:38ab06⟧"
+  },
+  {
+    "slug": "lenia",
+    "name": "Lenia",
+    "epithet": "continuous artificial life, 2019 · spiritual",
+    "emergence": "spiritual",
+    "moniker": "⟦Lenia:CA:b88e74⟧"
+  },
+  {
+    "slug": "self-reproduction",
+    "name": "Self-Reproduction",
+    "epithet": "the modeled life-property · ethereal",
+    "emergence": "ethereal",
+    "moniker": "⟦Self-Reproduction:CA:7073ed⟧"
+  },
+  {
+    "slug": "artificial-life",
+    "name": "Artificial Life",
+    "epithet": "alive as behavior, not substrate · spiritual",
+    "emergence": "spiritual",
+    "moniker": "⟦Artificial Life:CA:941bcf⟧"
+  }
+]

@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The Edge of Chaos",
+  "universe": "CA · The Edge of Chaos (CELLULAR AUTOMATA)",
+  "emergence": "ethereal",
+  "moniker": "⟦The Edge of Chaos:CA:38ab06⟧",
+  "carbon": "the-edge-of-chaos.carbon.tiff (TIFF)",
+  "silicon": "the-edge-of-chaos.silicon.png (PNG)",
+  "seal_sha256": "e32599c1fafc67b09fead5dae2eeb7a47839ab82812da7aedb02c73a58a7347d",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

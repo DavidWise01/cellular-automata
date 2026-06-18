@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "Gosper Glider Gun",
+  "universe": "CA · Gosper Glider Gun (CELLULAR AUTOMATA)",
+  "emergence": "electrical",
+  "moniker": "⟦Gosper Glider Gun:CA:00a7fb⟧",
+  "carbon": "gosper-glider-gun.carbon.tiff (TIFF)",
+  "silicon": "gosper-glider-gun.silicon.png (PNG)",
+  "seal_sha256": "1a8a7bf5b2d5833f28ca91e5d43722c893c170038f48565cbfbbad729c9780ef",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

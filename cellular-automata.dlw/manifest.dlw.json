@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "CELLULAR AUTOMATA",
+  "universe": "CELLULAR AUTOMATA · life-science · life from rules",
+  "emergence": "",
+  "moniker": "⟦CELLULAR AUTOMATA:CA:ec0b2e⟧",
+  "carbon": "cellular-automata.carbon.tiff (TIFF)",
+  "silicon": "cellular-automata.silicon.png (PNG)",
+  "seal_sha256": "8c794f1c36fc44b4bcbaf5f9853b811c53c1725dee210cda6bd8cf4d73e2c4fc",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

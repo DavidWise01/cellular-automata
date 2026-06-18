@@ -1,0 +1,14 @@
+⦿ .spun — the five-fold spin of Conway's Game of Life
+node CA · CA · ⟦Conway's Game of Life:CA:ce5a49⟧
+
+WHO   — Conway's Game of Life — the rule B3/S23, 1970 · electrical
+WHAT  — the rule B3/S23, 1970 · electrical
+WHERE — CA · CELLULAR AUTOMATA (CELLULAR AUTOMATA)  Framework inputs: the rule; the grid; the emergence  Conductor / external anchor: ROOT0 (catalogued into UD0)
+WHY   — Three numbers and a grid: a dead cell with exactly three live neighbors is born; a live cell survives only with two or three. From that alone comes the whole zoo — the most famous cellular automaton ever written.
+HOW   — Crystallized from the mathematics and computer science of cellular automata and artificial life.
+
+awareness — what the node knows of itself:
+  the rule B3/S23, 1970 · electrical
+
+spoken token : phik-leth-brind   ·   hex : ce5a49
+ROOT0-ATTRIBUTION-v1.0 · David Lee Wise (ROOT0) / TriPod LLC · CC-BY-ND-4.0

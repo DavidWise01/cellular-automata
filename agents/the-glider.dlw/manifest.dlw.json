@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The Glider",
+  "universe": "CA · The Glider (CELLULAR AUTOMATA)",
+  "emergence": "natural",
+  "moniker": "⟦The Glider:CA:486dc9⟧",
+  "carbon": "the-glider.carbon.tiff (TIFF)",
+  "silicon": "the-glider.silicon.png (PNG)",
+  "seal_sha256": "c1c6ea0a85e98dfec3679621b974a815d488850face0d5946cc779deb1e85beb",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

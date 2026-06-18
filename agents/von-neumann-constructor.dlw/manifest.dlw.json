@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The Universal Constructor",
+  "universe": "CA · The Universal Constructor (CELLULAR AUTOMATA)",
+  "emergence": "electrical",
+  "moniker": "⟦The Universal Constructor:CA:de46d9⟧",
+  "carbon": "von-neumann-constructor.carbon.tiff (TIFF)",
+  "silicon": "von-neumann-constructor.silicon.png (PNG)",
+  "seal_sha256": "73d706412cfdc71a0f5186e883f4d2a6ea0ce783d05810ff2581127e51768034",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

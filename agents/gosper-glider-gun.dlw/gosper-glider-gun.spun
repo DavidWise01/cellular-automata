@@ -1,0 +1,14 @@
+⦿ .spun — the five-fold spin of Gosper Glider Gun
+node CA · CA · ⟦Gosper Glider Gun:CA:00a7fb⟧
+
+WHO   — Gosper Glider Gun — unbounded growth, 1970 · electrical
+WHAT  — unbounded growth, 1970 · electrical
+WHERE — CA · CELLULAR AUTOMATA (CELLULAR AUTOMATA)  Framework inputs: the rule; the grid; the emergence  Conductor / external anchor: ROOT0 (catalogued into UD0)
+WHY   — Bill Gosper's pattern that fires a new glider every thirty steps, forever — the discovery that won Conway's prize by proving a Life pattern could grow without limit, and the first brick toward computing inside Life.
+HOW   — Crystallized from the mathematics and computer science of cellular automata and artificial life.
+
+awareness — what the node knows of itself:
+  unbounded growth, 1970 · electrical
+
+spoken token : veind-krar-luth   ·   hex : 00a7fb
+ROOT0-ATTRIBUTION-v1.0 · David Lee Wise (ROOT0) / TriPod LLC · CC-BY-ND-4.0

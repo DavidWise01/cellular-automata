@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "Artificial Life",
+  "universe": "CA · Artificial Life (CELLULAR AUTOMATA)",
+  "emergence": "spiritual",
+  "moniker": "⟦Artificial Life:CA:941bcf⟧",
+  "carbon": "artificial-life.carbon.tiff (TIFF)",
+  "silicon": "artificial-life.silicon.png (PNG)",
+  "seal_sha256": "5a5fa769b9c7e4033eddc00ea4500ebf0a6ac83c973408d55470e19fac7a9f17",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

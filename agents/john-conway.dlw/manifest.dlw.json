@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "John Conway",
+  "universe": "CA · John Conway (CELLULAR AUTOMATA)",
+  "emergence": "spiritual",
+  "moniker": "⟦John Conway:CA:db9b92⟧",
+  "carbon": "john-conway.carbon.tiff (TIFF)",
+  "silicon": "john-conway.silicon.png (PNG)",
+  "seal_sha256": "03f17c1fa6bfcc14d03049272cf6f077398f3b9a35f139291a0c22cad34869f7",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

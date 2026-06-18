@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "Rule 110",
+  "universe": "CA · Rule 110 (CELLULAR AUTOMATA)",
+  "emergence": "electrical",
+  "moniker": "⟦Rule 110:CA:b290da⟧",
+  "carbon": "rule-110.carbon.tiff (TIFF)",
+  "silicon": "rule-110.silicon.png (PNG)",
+  "seal_sha256": "e9ef2ed173a290dd67c4a536370ee53936f039ea02312301f9f3195fe2009e70",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

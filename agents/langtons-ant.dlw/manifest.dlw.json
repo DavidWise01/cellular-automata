@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "Langton's Ant",
+  "universe": "CA · Langton's Ant (CELLULAR AUTOMATA)",
+  "emergence": "natural",
+  "moniker": "⟦Langton's Ant:CA:6b59ac⟧",
+  "carbon": "langtons-ant.carbon.tiff (TIFF)",
+  "silicon": "langtons-ant.silicon.png (PNG)",
+  "seal_sha256": "e0b32bac0ed59f52070a9e4c91d5e1d546cc987e19f93a136e60f446ebd581f8",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}
